@@ -1,0 +1,1 @@
+a reasonably versatile supersaw/square/sine sample generator. created for my windows 98 machine, which isn't capable of rendering big oscillator stacks in realtime.
